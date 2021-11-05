@@ -6,6 +6,10 @@
 
 ## List of Algorithms
 * Karatsuba Multiplication
+* Merge Sort
+* Quick Sort
+* Bubble Sort
+* Selection Sort
 
 ## Other resources used 
 * https://www.geeksforgeeks.org/
